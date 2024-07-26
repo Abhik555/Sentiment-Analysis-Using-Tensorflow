@@ -29,3 +29,4 @@ You can use this project in 2 ways
 
 ## Model Architecture
 
+![Model Architecture](https://github.com/Abhik555/Sentiment-Analysis-Using-Tensorflow/blob/83827f64f7e9d473b2420df6830568b802c926ba/model.png)
